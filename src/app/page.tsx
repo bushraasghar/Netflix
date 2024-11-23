@@ -68,7 +68,7 @@ export default function Home() {
                 <img src="./allofusdead.jpg"/>
               </div>
               <h5><a href="https://youtu.be/IN5TD4VRcSM?si=CCipIACBcrXKbrJx" className="flex justify-center items-center text-black text-2x1 md:text-3xl mt-3 bg-red-700 py-2 rounded-lg font-bold hover:bg-red-800 focus:scale-95 transition-all duration-200 ease-out">Watch Trailer</a></h5>
-              <h5 className="text-lg text-center font-bold font-serif">All Of Us Dead</h5>
+              <h5 className="text-lg text-center font-bold font-serif">All Of Us Are Dead</h5>
               <p className="text-lg text-center font-serif">Horror, sci-fiction, thriller</p>
             </div>
           </div>
